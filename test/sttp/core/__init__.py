@@ -1,0 +1,1 @@
+"""STTP core unit tests."""

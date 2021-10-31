@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+/.coverage
+/coverage.xml
+/venv/
+/build/
+/dist/
+/sttp.egg-info/
+/docs/build/
+/.nox/
