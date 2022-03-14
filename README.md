@@ -1,4 +1,6 @@
-# Strict Text Template Parse (sttp)
+# Strict Text Template Parse (sttp) [![test](https://github.com/mwri/sttp/actions/workflows/test.yml/badge.svg)](https://github.com/mwri/sttp/actions/workflows/test.yml) [![codecov](https://codecov.io/gh/mwri/sttp/branch/main/graph/badge.svg?token=FZXOQQR4QM)](https://codecov.io/gh/mwri/sttp) [![Documentation Status](https://readthedocs.org/projects/py-sttp/badge/?version=latest)](https://py-sttp.readthedocs.io/en/latest/?badge=latest)
+
+Please see [full documentation on readthedocs](https://py-sttp.readthedocs.io/en/latest/).
 
 STTP allows you to parse text strictly (see [why strict parsing](#why-strict-parsing)
 below for a discussion on why parsing should be strict) but very easily, using
