@@ -31,5 +31,5 @@ setuptools.setup(
     python_requires=getattr(pkg_meta, 'python_requires'),
     install_requires=getattr(pkg_meta, 'install_requires'),
     extras_require=getattr(pkg_meta, 'extras_require'),
-    packages=setuptools.find_packages(exclude=['test']),
+    packages=setuptools.find_packages(exclude=['test*']),
 )
