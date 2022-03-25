@@ -32,4 +32,5 @@ setuptools.setup(
     install_requires=getattr(pkg_meta, 'install_requires'),
     extras_require=getattr(pkg_meta, 'extras_require'),
     packages=setuptools.find_packages(exclude=['test*']),
+    package_data=getattr(pkg_meta, 'package_data'),
 )
