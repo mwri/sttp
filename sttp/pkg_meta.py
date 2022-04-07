@@ -12,7 +12,7 @@ url = 'https://github.com/mwri/sttp'
 
 classifiers = [
     'Programming Language :: Python :: 3',
-    'License :: Other/Proprietary License',
+    'License :: OSI Approved :: MIT License',
     'Operating System :: OS Independent',
 ]
 
